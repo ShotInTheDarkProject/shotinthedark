@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/EnvironmentModule/3x5.uasset",
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/EnvironmentModule/3x5_crossroad.uasset",
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/EnvironmentModule/3x5_L.uasset",
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/EnvironmentModule/3x5_R.uasset",
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/EnvironmentModule/standardSurface1.uasset",
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/Weapon/lambert2.uasset",
+				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/Weapon/Revolver_V1_2.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/8/2H/S6V74Q7V714A592ALI4FWY.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/3/W7/Z1GYTZA0J1BRAN8Q5BEMZ5.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/5/VD/CU291VWFSUTXZR82IIB8K9.uasset",
