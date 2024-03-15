@@ -4,6 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
+<<<<<<< HEAD
 			"files": [
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/5/VD/CU291VWFSUTXZR82IIB8K9.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/D/SR/7JZVUUYE3VBNRQG4V9G53G.uasset",
@@ -575,6 +576,9 @@
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/ProFirstPersonHorror/Blueprints/CameraShakes/CSM_Sprint.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/ProFirstPersonHorror/Blueprints/CameraShakes/CSM_Idle.uasset"
 			]
+=======
+			"files": []
+>>>>>>> SwarmTest
 		}
 	]
 }
