@@ -10827,3 +10827,706 @@ GroupActor_43
 [2024.03.17-07.17.07:486][128]LogHttp: Warning: 000007F51D7E9B00: libcurl info message cache 34 (Closing connection)
 [2024.03.17-07.17.07:486][128]LogHttp: Warning: 000007F51D7E9B00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.17-07.17.07:486][128]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-07.19.07:130][734]LogSlate: External Image Picker: DecompressImage failed
+[2024.03.17-07.20.21:108][983]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.17-07.20.21:111][983]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.17-07.20.22:715][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-07.20.22:796][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.17-07.20.22:891][166]LogSavePackage: Moving output files for package: /Game/TestV2/Maps/kate_prefab
+[2024.03.17-07.20.22:892][166]LogSavePackage: Moving '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Saved/kate_prefab264E82134C94072C18ADAAB6A26F646F.tmp' to '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Maps/kate_prefab.umap'
+[2024.03.17-07.20.22:904][166]LogFileHelpers: All files are already saved.
+[2024.03.17-07.20.22:904][166]LogFileHelpers: Saving map 'kate_prefab' took 0.148
+[2024.03.17-07.20.22:917][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 12.2 sec)
+[2024.03.17-07.20.22:919][166]AssetCheck: New page: Asset Save: kate_prefab
+[2024.03.17-07.20.22:919][166]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestV2/Maps/kate_prefab.kate_prefab
+[2024.03.17-07.20.23:801][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.20.23:808][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.20.23:808][270]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:20:23 am)
+[2024.03.17-07.20.23:843][270]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.20.23:904][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061030s)
+[2024.03.17-07.20.23:904][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.061068s)
+[2024.03.17-07.20.23:917][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.17-07.20.23:918][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.20.23:918][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.20.23:919][270]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.20.23:919][270]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2024.03.17-07.20.23:919][270]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.20.23:919][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.20.23:919][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.20.23:920][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.20.23:920][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.20.23:920][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.20.23:921][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.20.23:948][270]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.20.23:948][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.20.23:948][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.20.23:948][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.20.23:949][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.03.17-07.20.23:949][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.03.17-07.20.23:950][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.03.17-07.20.23:950][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.03.17-07.20.23:950][270]LogInit: FAudioDevice initialized with ID 42.
+[2024.03.17-07.20.23:950][270]LogAudio: Display: Audio Device (ID: 42) registered with world 'kate_prefab'.
+[2024.03.17-07.20.23:951][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.03.17-07.20.23:953][270]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.20.23:955][270]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.20.23
+[2024.03.17-07.20.23:956][270]LogWorld: Bringing up level for play took: 0.002428
+[2024.03.17-07.20.23:959][270]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.03.17-07.20.23:961][270]PIE: Server logged in
+[2024.03.17-07.20.23:962][270]PIE: Play in editor total start time 0.155 seconds.
+[2024.03.17-07.20.26:083][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Bullet Blueprint:  BP_Bullet
+[2024.03.17-07.20.41:313][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.20.41:313][906]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.20.41:313][906]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.20.41:313][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.20.41:317][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.20.41:323][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.20.41:334][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-07.20.41:334][906]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.03.17-07.20.41:334][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.03.17-07.20.41:336][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.03.17-07.20.41:340][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.20.41:344][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.17-07.20.41:453][907]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.03.17-07.20.43:774][151]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.20.43:778][151]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.20.49:131][719]LogSlate: External Image Picker: DecompressImage failed
+[2024.03.17-07.21.07:046][593]LogHttp: Warning: 000007F525F3CD00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 0 (Found bundle for host: 0x7f48b1707e0 [serially])
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 6 (Closing connection)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 9 (  Trying 34.230.211.129:443...)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.230.211.129) port 443)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 34 (Closing connection)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: 000007F525F3CD00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.21.07:047][593]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-07.21.16:983][757]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.17-07.21.16:987][757]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.17-07.21.19:166][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.21.19:173][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.21.19:173][ 10]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:21:19 am)
+[2024.03.17-07.21.19:203][ 10]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.21.19:264][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061754s)
+[2024.03.17-07.21.19:264][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.061793s)
+[2024.03.17-07.21.19:278][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.17-07.21.19:281][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.21.19:281][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.21.19:282][ 10]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.21.19:282][ 10]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2024.03.17-07.21.19:282][ 10]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.21.19:282][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.21.19:282][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.21.19:283][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.21.19:283][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.21.19:283][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.21.19:284][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.21.19:298][ 10]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.21.19:298][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.21.19:298][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.21.19:298][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.21.19:299][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.03.17-07.21.19:299][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.03.17-07.21.19:300][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.03.17-07.21.19:300][ 10]LogInit: FAudioDevice initialized with ID 43.
+[2024.03.17-07.21.19:300][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.03.17-07.21.19:300][ 10]LogAudio: Display: Audio Device (ID: 43) registered with world 'kate_prefab'.
+[2024.03.17-07.21.19:300][ 10]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.03.17-07.21.19:302][ 10]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.21.19:304][ 10]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.21.19
+[2024.03.17-07.21.19:304][ 10]LogWorld: Bringing up level for play took: 0.001992
+[2024.03.17-07.21.19:306][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.03.17-07.21.19:308][ 10]PIE: Server logged in
+[2024.03.17-07.21.19:309][ 10]PIE: Play in editor total start time 0.136 seconds.
+[2024.03.17-07.21.20:261][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Bullet Blueprint:  BP_Bullet
+[2024.03.17-07.21.25:103][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.21.25:103][550]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.21.25:104][550]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.21.25:104][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.21.25:107][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.21.25:111][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.21.25:123][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.21.25:124][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.03.17-07.21.25:124][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.03.17-07.21.25:126][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.03.17-07.21.25:133][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.17-07.21.25:230][551]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.03.17-07.21.27:626][804]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.21.27:630][804]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.21.30:482][ 88]LogSlate: External Image Picker: DecompressImage failed
+[2024.03.17-07.21.35:602][676]LogSlate: Window 'Project Settings' being destroyed
+[2024.03.17-07.22.16:151][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.22.16:158][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.22.16:158][443]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:22:16 am)
+[2024.03.17-07.22.16:183][443]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.22.16:244][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061000s)
+[2024.03.17-07.22.16:244][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.061035s)
+[2024.03.17-07.22.16:257][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.17-07.22.16:259][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.22.16:259][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.22.16:259][443]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.22.16:259][443]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2024.03.17-07.22.16:259][443]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.22.16:260][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.22.16:260][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.22.16:260][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.22.16:260][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.22.16:260][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.22.16:262][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.22.16:275][443]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.22.16:276][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.22.16:276][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.22.16:276][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.22.16:277][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.03.17-07.22.16:277][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.03.17-07.22.16:278][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.03.17-07.22.16:278][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.03.17-07.22.16:278][443]LogInit: FAudioDevice initialized with ID 44.
+[2024.03.17-07.22.16:278][443]LogAudio: Display: Audio Device (ID: 44) registered with world 'kate_prefab'.
+[2024.03.17-07.22.16:278][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.03.17-07.22.16:280][443]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.22.16:282][443]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.22.16
+[2024.03.17-07.22.16:282][443]LogWorld: Bringing up level for play took: 0.002010
+[2024.03.17-07.22.16:283][443]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.03.17-07.22.16:286][443]PIE: Server logged in
+[2024.03.17-07.22.16:286][443]PIE: Play in editor total start time 0.129 seconds.
+[2024.03.17-07.22.17:038][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Bullet Blueprint:  BP_Bullet
+[2024.03.17-07.22.18:713][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.22.18:714][674]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.22.18:714][674]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.22.18:714][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.22.18:717][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.22.18:722][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.22.18:732][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.22.18:733][674]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.03.17-07.22.18:733][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.03.17-07.22.18:735][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.03.17-07.22.18:741][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.17-07.22.18:850][675]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.03.17-07.22.21:344][941]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.22.21:348][941]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.22.27:578][681]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.22.27:584][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.22.27:584][681]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:22:27 am)
+[2024.03.17-07.22.27:613][681]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.22.27:675][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061688s)
+[2024.03.17-07.22.27:675][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.061725s)
+[2024.03.17-07.22.27:689][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.17-07.22.27:691][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.22.27:691][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.22.27:691][681]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.22.27:691][681]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2024.03.17-07.22.27:692][681]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.22.27:692][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.22.27:692][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.22.27:692][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.22.27:692][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.22.27:692][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.22.27:694][681]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.22.27:707][681]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.22.27:708][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.22.27:708][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.22.27:708][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.22.27:708][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.03.17-07.22.27:708][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.03.17-07.22.27:710][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.03.17-07.22.27:710][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.03.17-07.22.27:710][681]LogInit: FAudioDevice initialized with ID 45.
+[2024.03.17-07.22.27:710][681]LogAudio: Display: Audio Device (ID: 45) registered with world 'kate_prefab'.
+[2024.03.17-07.22.27:710][681]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.03.17-07.22.27:712][681]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.22.27:714][681]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.22.27
+[2024.03.17-07.22.27:714][681]LogWorld: Bringing up level for play took: 0.002134
+[2024.03.17-07.22.27:715][681]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.03.17-07.22.27:718][681]PIE: Server logged in
+[2024.03.17-07.22.27:719][681]PIE: Play in editor total start time 0.133 seconds.
+[2024.03.17-07.22.28:569][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Bullet Blueprint:  BP_Bullet
+[2024.03.17-07.22.50:793][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.22.50:793][685]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.22.50:793][685]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.22.50:793][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.22.50:796][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.22.50:801][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.22.50:813][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.22.50:813][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.03.17-07.22.50:813][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.03.17-07.22.50:815][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.03.17-07.22.50:822][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.17-07.22.50:942][686]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.03.17-07.22.52:840][877]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.22.52:844][877]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.22.58:381][530]Cmd: SELECT NONE
+[2024.03.17-07.23.00:077][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-07.23.00:163][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.17-07.23.00:255][732]LogSavePackage: Moving output files for package: /Game/TestV2/Maps/kate_prefab
+[2024.03.17-07.23.00:256][732]LogSavePackage: Moving '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Saved/kate_prefabE12E74854C033CBFDCC2B1B6DB63D617.tmp' to '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Maps/kate_prefab.umap'
+[2024.03.17-07.23.00:269][732]LogFileHelpers: All files are already saved.
+[2024.03.17-07.23.00:269][732]LogFileHelpers: Saving map 'kate_prefab' took 0.146
+[2024.03.17-07.23.00:276][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 12.4 sec)
+[2024.03.17-07.23.00:278][732]AssetCheck: New page: Asset Save: kate_prefab
+[2024.03.17-07.23.00:278][732]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestV2/Maps/kate_prefab.kate_prefab
+[2024.03.17-07.23.03:105][ 58]MapCheck: New page: Map Check
+[2024.03.17-07.23.03:122][ 58]Cmd: MAP REBUILD ALLVISIBLE
+[2024.03.17-07.23.03:123][ 58]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.03.17-07.23.03:270][ 58]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.23.03:270][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.23.03:271][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.23.03:271][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.23.03:320][ 58]LightingResults: New page: Lighting Build - 18 Mar 2024, 5:23:03 am
+[2024.03.17-07.23.03:329][ 58]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.03.17-07.23.03:332][ 58]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.03.17-07.23.03:332][ 58]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.03.17-07.23.03:333][ 58]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.03.17-07.23.03:333][ 58]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6428
+[2024.03.17-07.23.07:918][ 58]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.03.17-07.23.07:919][ 58]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.03.17-07.23.07:919][ 58]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.03.17-07.23.07:919][ 58]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.03.17-07.23.07:919][ 58]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.03.17-07.23.07:919][ 58]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.03.17-07.23.08:004][ 58]LogEditorBuildUtils: Build time 0:04
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: ================================================
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Total job queries 4,477, among them cache hits 69 (1.54%)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Tracking 4,404 distinct input hashes that result in 2,970 distinct outputs (67.44%)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: RAM used: 84.15 MiB of 1.60 GiB budget. Usage: 5.14%
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Shaders Compiled: 4,404
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Jobs assigned 4,404, completed 4,404 (100%)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Average time worker was idle: 164.62 s
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Time job spent in pending queue: average 50.13 s, longest 129.92 s
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Job execution time: average 2.94 s, max 13.54 s
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Job life time (pending + execution): average 53.07 s, max 133.97
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Shader code size: average 38.468 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 182.37 s
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Jobs were issued in 897 batches (only local compilation was used), average 4.91 jobs/batch
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Average processing rate: 24.15 jobs/sec
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Total thread time: 1,411.948 s
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Total thread preprocess time: 106.429 s
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Percentage time preprocessing: 7.54%
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Effective parallelization: 7.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.24 sec, max 8.98 sec, min 1.37 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.31 sec, max 5.17 sec, min 3.12 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.64 sec, max 2.96 sec, min 0.98 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.33 sec, max 1.33 sec, min 1.33 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  134 times, average 1.21 sec, max 3.58 sec, min 1.00 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.48% of total time (compiled  134 times, average 1.21 sec, max 3.58 sec, min 1.00 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.76% of total time (compiled   96 times, average 0.70 sec, max 1.24 sec, min 0.43 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.13% of total time (compiled   96 times, average 0.61 sec, max 1.06 sec, min 0.14 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 3.83% of total time (compiled   33 times, average 1.64 sec, max 2.96 sec, min 0.98 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.68% of total time (compiled  128 times, average 0.41 sec, max 1.33 sec, min 0.28 sec)
+[2024.03.17-07.23.08:013][ 58]LogShaderCompilers: Display: ================================================
+[2024.03.17-07.23.08:090][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.17-07.23.09:321][ 63]Job is a success!
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:      Bricks at depth
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:          1: 37.5% covering 14.1% of volume
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:          2: 58.3% covering 0.3% of volume
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:      Bricks in each level
+[2024.03.17-07.23.10:007][ 64]LogVolumetricLightmapImport:          kate_prefab 			 24 bricks 	 100.0% (Persistent Level)
+[2024.03.17-07.23.10:128][ 64]LogTexture: Display: Building textures: /Game/TestV2/Maps/kate_prefab_BuiltData.kate_prefab_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.03.17-07.23.10:251][ 64]LogStaticLightingSystem: kate_prefab_BuiltData storing lightmap data for 25 meshes in 1 LightmapResourceClusters (25.0 Meshes per cluster).
+[2024.03.17-07.23.10:257][ 64]Lightmass on DESKTOP-Q4AIE8M: 1.69 sec total, 66 ms importing, 2 ms setup, 118 ms photons, 1.50 sec processing, 0 us extra exporting [231/231 mappings]. Threads: 16.5 sec total, 2.05 sec processing.
+[2024.03.17-07.23.10:277][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.17-07.23.10:324][ 64]LogStaticLightingSystem: Illumination: 6.65 sec (104 ms encoding lightmaps, 70 ms encoding shadowmaps)
+[2024.03.17-07.23.10:324][ 64]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (0.0 MB streaming, 2.1 MB non-streaming), 2 textures
+[2024.03.17-07.23.10:324][ 64]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 1 textures
+[2024.03.17-07.23.10:923][ 64]DumpUnbuiltLightIteractions
+[2024.03.17-07.23.10:923][ 64]Lights with unbuilt interactions: 0
+[2024.03.17-07.23.10:923][ 64]
+[2024.03.17-07.23.10:923][ 64]Primitives with unbuilt interactions: 0
+[2024.03.17-07.23.10:932][ 65]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.03.17-07.23.10:932][ 65]MapCheck: New page: kate_prefab - 18 Mar 2024, 5:23:10 am
+[2024.03.17-07.23.10:933][ 65]MapCheck: Warning: StaticMeshActor_24 Static mesh actor has NULL StaticMesh property 
+[2024.03.17-07.23.10:933][ 65]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.823ms to complete.
+[2024.03.17-07.23.19:717][508]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.23.19:724][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.23.19:724][508]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:23:19 am)
+[2024.03.17-07.23.19:753][508]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.23.19:813][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060371s)
+[2024.03.17-07.23.19:813][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.060408s)
+[2024.03.17-07.23.19:826][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.17-07.23.19:828][508]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.23.19:829][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.23.19:829][508]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.23.19:829][508]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2024.03.17-07.23.19:829][508]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.23.19:829][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.23.19:829][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.23.19:830][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.23.19:830][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.23.19:830][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.23.19:832][508]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.23.19:845][508]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.23.19:845][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.23.19:845][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.23.19:845][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.23.19:846][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.03.17-07.23.19:846][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.03.17-07.23.19:847][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.03.17-07.23.19:847][508]LogInit: FAudioDevice initialized with ID 46.
+[2024.03.17-07.23.19:847][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.03.17-07.23.19:847][508]LogAudio: Display: Audio Device (ID: 46) registered with world 'kate_prefab'.
+[2024.03.17-07.23.19:847][508]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.03.17-07.23.19:849][508]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.23.19:851][508]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.23.19
+[2024.03.17-07.23.19:852][508]LogWorld: Bringing up level for play took: 0.002026
+[2024.03.17-07.23.19:853][508]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.03.17-07.23.19:855][508]PIE: Server logged in
+[2024.03.17-07.23.19:856][508]PIE: Play in editor total start time 0.132 seconds.
+[2024.03.17-07.23.20:662][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Bullet Blueprint:  BP_Bullet
+[2024.03.17-07.23.30:603][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.23.30:603][541]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.23.30:603][541]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.23.30:603][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.23.30:606][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.23.30:611][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.23.30:624][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.23.30:625][541]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.03.17-07.23.30:625][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.03.17-07.23.30:627][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.03.17-07.23.30:633][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.17-07.23.30:757][542]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.03.17-07.23.33:270][811]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.23.33:274][811]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.23.42:894][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.23.42:901][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.23.42:901][799]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:23:42 am)
+[2024.03.17-07.23.42:923][799]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.23.42:983][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060360s)
+[2024.03.17-07.23.42:983][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.060394s)
+[2024.03.17-07.23.42:997][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.17-07.23.42:999][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.23.42:999][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.23.42:999][799]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.23.43:000][799]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2024.03.17-07.23.43:000][799]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.23.43:000][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.23.43:000][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.23.43:000][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.23.43:000][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.23.43:000][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.23.43:002][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.23.43:016][799]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.23.43:016][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.23.43:016][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.23.43:016][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.23.43:017][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.03.17-07.23.43:017][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.03.17-07.23.43:018][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.03.17-07.23.43:018][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.03.17-07.23.43:018][799]LogInit: FAudioDevice initialized with ID 47.
+[2024.03.17-07.23.43:018][799]LogAudio: Display: Audio Device (ID: 47) registered with world 'kate_prefab'.
+[2024.03.17-07.23.43:018][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.03.17-07.23.43:020][799]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.23.43:022][799]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.23.43
+[2024.03.17-07.23.43:022][799]LogWorld: Bringing up level for play took: 0.002016
+[2024.03.17-07.23.43:024][799]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.03.17-07.23.43:026][799]PIE: Server logged in
+[2024.03.17-07.23.43:027][799]PIE: Play in editor total start time 0.126 seconds.
+[2024.03.17-07.23.57:693][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.23.57:693][336]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.23.57:694][336]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.23.57:694][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.23.57:697][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.23.57:705][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.23.57:716][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.23.57:717][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.03.17-07.23.57:717][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.03.17-07.23.57:719][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.03.17-07.23.57:726][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.17-07.23.57:786][338]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.03.17-07.24.01:053][730]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-07.24.01:060][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-07.24.01:060][730]PIE: New page: PIE session: kate_prefab (18 Mar 2024, 5:24:01 am)
+[2024.03.17-07.24.01:103][730]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.24.01:164][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061306s)
+[2024.03.17-07.24.01:164][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/kate_prefab.kate_prefab to /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab (0.061346s)
+[2024.03.17-07.24.01:177][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.17-07.24.01:179][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-07.24.01:179][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-07.24.01:180][730]LogAIModule: Creating AISystem for world kate_prefab
+[2024.03.17-07.24.01:180][730]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2024.03.17-07.24.01:180][730]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-07.24.01:180][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-07.24.01:180][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-07.24.01:180][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-07.24.01:180][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-07.24.01:180][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-07.24.01:182][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-07.24.01:196][730]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.17-07.24.01:196][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-07.24.01:196][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-07.24.01:196][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-07.24.01:197][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.03.17-07.24.01:197][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.03.17-07.24.01:198][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.03.17-07.24.01:198][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.03.17-07.24.01:198][730]LogInit: FAudioDevice initialized with ID 48.
+[2024.03.17-07.24.01:198][730]LogAudio: Display: Audio Device (ID: 48) registered with world 'kate_prefab'.
+[2024.03.17-07.24.01:198][730]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.03.17-07.24.01:200][730]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.17-07.24.01:202][730]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_kate_prefab.kate_prefab up for play (max tick rate 0) at 2024.03.17-18.24.01
+[2024.03.17-07.24.01:203][730]LogWorld: Bringing up level for play took: 0.002020
+[2024.03.17-07.24.01:204][730]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.03.17-07.24.01:206][730]PIE: Server logged in
+[2024.03.17-07.24.01:207][730]PIE: Play in editor total start time 0.147 seconds.
+[2024.03.17-07.24.02:199][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Bullet Blueprint:  BP_Bullet
+[2024.03.17-07.24.05:723][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.24.05:723][176]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_kate_prefab
+[2024.03.17-07.24.05:723][176]LogWorld: UWorld::CleanupWorld for kate_prefab, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-07.24.05:724][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.24.05:727][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-07.24.05:732][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-07.24.05:743][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-07.24.05:744][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.03.17-07.24.05:744][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.03.17-07.24.05:746][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.03.17-07.24.05:752][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.17-07.24.05:863][177]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.03.17-07.24.07:585][351]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.24.07:589][351]LogSlate: Window 'Message Log' being destroyed
+[2024.03.17-07.24.12:954][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-07.24.13:017][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.17-07.24.13:109][990]LogSavePackage: Moving output files for package: /Game/TestV2/Maps/kate_prefab
+[2024.03.17-07.24.13:109][990]LogSavePackage: Moving '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Saved/kate_prefabB71A687F41B10A8428EF9E9DF4A99556.tmp' to '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Maps/kate_prefab.umap'
+[2024.03.17-07.24.13:123][990]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/TestV2/Maps/kate_prefab_BuiltData
+[2024.03.17-07.24.13:123][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-07.24.13:134][990]LogSavePackage: Moving output files for package: /Game/TestV2/Maps/kate_prefab_BuiltData
+[2024.03.17-07.24.13:134][990]LogSavePackage: Moving '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Saved/kate_prefab_BuiltData48A9C6B242B15F804E3910AB53328894.tmp' to '../../../../../../Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Maps/kate_prefab_BuiltData.uasset'
+[2024.03.17-07.24.13:136][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 12 ms (total: 12.4 sec)
+[2024.03.17-07.24.13:136][990]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/TestV2/Maps/kate_prefab_BuiltData
+[2024.03.17-07.24.13:136][990]LogFileHelpers: Saving map 'kate_prefab' took 0.159
+[2024.03.17-07.24.13:142][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 12.6 sec)
+[2024.03.17-07.24.13:145][990]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.17-07.24.13:145][990]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestV2/Maps/kate_prefab.kate_prefab
+[2024.03.17-07.24.13:145][990]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/TestV2/Maps/kate_prefab_BuiltData.kate_prefab_BuiltData
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 0 (Found bundle for host: 0x7f48b170900 [serially])
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 6 (Closing connection)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 9 (  Trying 3.212.78.151:443...)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.212.78.151) port 443)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-07.27.07:405][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 34 (Closing connection)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: 000007F52ABD4100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.27.07:406][539]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 0 (Found bundle for host: 0x7f48b1702a0 [serially])
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-07.30.07:140][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 6 (Closing connection)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 9 (  Trying 18.213.206.237:443...)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (18.213.206.237) port 443)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 34 (Closing connection)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: 000007F52ABD2300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.30.07:141][721]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 0 (Found bundle for host: 0x7f48b170060 [serially])
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 6 (Closing connection)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 9 (  Trying 54.84.229.176:443...)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.84.229.176) port 443)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 34 (Closing connection)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: 000007F52ABD5000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.33.07:233][485]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 0 (Found bundle for host: 0x7f48b1705d0 [serially])
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 6 (Closing connection)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 9 (  Trying 3.230.255.229:443...)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.230.255.229) port 443)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-07.37.07:209][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 34 (Closing connection)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: 000007F52ABDE600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-07.37.07:210][ 65]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD7F2F9E-426E-19A6-596E-ABB896C7719E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=49854ec44cfd75c06d9ae7a9a7e7725c%7C5843d69ccf57410c9d4f7f96b567949f%7C691c8b52-e024-4822-a5d9-9aff53109699&AppEnvironment=datacollector-binary&UploadType=eteventstream
