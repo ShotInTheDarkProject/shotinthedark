@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Maps/kate_prefab.umap",
+				"C:/Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Maps/kate_prefab_BuiltData.uasset",
+				"C:/Users/katep/OneDrive/Documents/GitHub/shotinthedark/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/7/Q2/NNN70FHLZP6POTH1S02LU5.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/9/78/OAW8DRUH0S4WUEZSBXA0T2.uasset",
 				"C:/Users/nicka/Documents/Unreal Projects/shotinthedark/Content/__ExternalActors__/TestV2/Maps/FPHorrorExampleMap/A/NG/260DY7JS1EMVOFOSHHHSIV.uasset",
