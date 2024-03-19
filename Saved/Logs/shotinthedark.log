@@ -3367,3 +3367,301 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.19-12.56.22:907][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 2.80 sec)
 [2024.03.19-12.56.22:908][ 74]AssetCheck: New page: Asset Save: LevelOne
 [2024.03.19-12.56.22:908][ 74]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestV2/Maps/LevelOne.LevelOne
+[2024.03.19-12.57.31:623][157]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.19-12.57.31:634][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.19-12.57.31:634][157]PIE: New page: PIE session: LevelOne (20 Mar 2024, 10:57:31 am)
+[2024.03.19-12.57.31:662][157]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-12.57.31:669][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007555s)
+[2024.03.19-12.57.31:669][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/LevelOne.LevelOne to /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne (0.007601s)
+[2024.03.19-12.57.31:685][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.19-12.57.31:686][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-12.57.31:686][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-12.57.31:686][157]LogAIModule: Creating AISystem for world LevelOne
+[2024.03.19-12.57.31:687][157]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2024.03.19-12.57.31:687][157]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-12.57.31:687][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.19-12.57.31:687][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-12.57.31:687][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.19-12.57.31:688][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.19-12.57.31:688][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.19-12.57.31:689][157]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.19-12.57.31:706][157]LogAudioMixer: Display: Using Audio Hardware Device ED322Q (NVIDIA High Definition Audio)
+[2024.03.19-12.57.31:706][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.19-12.57.31:706][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.19-12.57.31:706][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.19-12.57.31:708][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.19-12.57.31:708][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.19-12.57.31:709][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.19-12.57.31:709][157]LogInit: FAudioDevice initialized with ID 17.
+[2024.03.19-12.57.31:709][157]LogAudio: Display: Audio Device (ID: 17) registered with world 'LevelOne'.
+[2024.03.19-12.57.31:710][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.19-12.57.31:710][157]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.19-12.57.31:713][157]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.19-12.57.31:716][157]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2024.03.19-23.57.31
+[2024.03.19-12.57.31:718][157]LogWorld: Bringing up level for play took: 0.004681
+[2024.03.19-12.57.31:720][157]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.19-12.57.31:720][157]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-12.57.31:720][157]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-12.57.31:720][157]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-12.57.31:723][157]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-12.57.31:723][157]PIE: Server logged in
+[2024.03.19-12.57.31:724][157]PIE: Play in editor total start time 0.095 seconds.
+[2024.03.19-12.57.57:267][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-12.57.57:267][ 23]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-12.57.57:268][ 23]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-12.57.57:269][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-12.57.57:276][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.19-12.57.57:281][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-12.57.57:295][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-12.57.57:296][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.03.19-12.57.57:296][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.19-12.57.57:298][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.19-12.57.57:306][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.19-12.57.57:386][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.19-12.59.58:319][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-12.59.58:539][341]LogSavePackage: Moving output files for package: /Game/TestV2/Blueprints/Enemy/Critter/BP_Enemy_Critter
+[2024.03.19-12.59.58:540][341]LogSavePackage: Moving 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Saved/BP_Enemy_Critter88D866BB46B82D28914EB980728A55CB.tmp' to 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Content/TestV2/Blueprints/Enemy/Critter/BP_Enemy_Critter.uasset'
+[2024.03.19-12.59.58:549][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 3.03 sec)
+[2024.03.19-12.59.58:551][341]AssetCheck: New page: Asset Save: BP_Enemy_Critter
+[2024.03.19-12.59.58:551][341]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestV2/Blueprints/Enemy/Critter/BP_Enemy_Critter.BP_Enemy_Critter
+[2024.03.19-12.59.59:116][405]BlueprintLog: New page: Compile BP_Enemy_Critter
+[2024.03.19-12.59.59:181][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.19-13.00.00:939][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.19-13.00.00:951][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.19-13.00.00:952][543]PIE: New page: PIE session: LevelOne (20 Mar 2024, 11:00:00 am)
+[2024.03.19-13.00.00:952][543]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-13.00.00:961][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009221s)
+[2024.03.19-13.00.00:961][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/LevelOne.LevelOne to /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne (0.009269s)
+[2024.03.19-13.00.00:977][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.19-13.00.00:979][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.00.00:979][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-13.00.00:980][543]LogAIModule: Creating AISystem for world LevelOne
+[2024.03.19-13.00.00:980][543]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2024.03.19-13.00.00:980][543]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-13.00.00:980][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.19-13.00.00:980][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-13.00.00:981][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.19-13.00.00:981][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.19-13.00.00:981][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.19-13.00.00:982][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.19-13.00.01:000][543]LogAudioMixer: Display: Using Audio Hardware Device ED322Q (NVIDIA High Definition Audio)
+[2024.03.19-13.00.01:000][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.19-13.00.01:000][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.19-13.00.01:000][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.19-13.00.01:001][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.19-13.00.01:001][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.03.19-13.00.01:003][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.19-13.00.01:003][543]LogInit: FAudioDevice initialized with ID 18.
+[2024.03.19-13.00.01:003][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.19-13.00.01:003][543]LogAudio: Display: Audio Device (ID: 18) registered with world 'LevelOne'.
+[2024.03.19-13.00.01:003][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.19-13.00.01:006][543]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.19-13.00.01:010][543]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2024.03.20-00.00.01
+[2024.03.19-13.00.01:011][543]LogWorld: Bringing up level for play took: 0.005509
+[2024.03.19-13.00.01:013][543]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.19-13.00.01:014][543]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-13.00.01:014][543]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-13.00.01:014][543]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-13.00.01:017][543]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-13.00.01:017][543]PIE: Server logged in
+[2024.03.19-13.00.01:018][543]PIE: Play in editor total start time 0.073 seconds.
+[2024.03.19-13.00.19:270][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-13.00.19:270][862]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-13.00.19:271][862]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-13.00.19:271][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-13.00.19:275][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.19-13.00.19:279][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-13.00.19:295][862]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.19-13.00.19:296][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.03.19-13.00.19:296][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.19-13.00.19:297][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.19-13.00.19:301][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-13.00.19:304][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.19-13.00.19:385][863]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.19-13.00.38:298][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.00.49:790][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestV2/Blueprints/Civilian/BP_Civilian.BP_Civilian
+[2024.03.19-13.00.49:790][656]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.00.49:790][656]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-13.01.52:543][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase.BP_PhysicObjectBase
+[2024.03.19-13.01.52:544][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.01.52:544][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 0 (Found bundle for host: 0xaacee160ed0 [serially])
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 6 (Closing connection)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58350203-4194-7EF3-39B0-3AA2BEA1862C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=889a66024faa007db7352ca64cd389d5%7Cdc93e631f9b344f1af58043ccb254f37%7Cca5a3ce4-dcaa-44c4-9de2-83281eb155e3&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 9 (  Trying 3.89.166.188:443...)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.89.166.188) port 443)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 25 (Server certificate:)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 34 (Closing connection)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: 00000AAD75BE9B00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.19-13.01.55:145][ 46]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58350203-4194-7EF3-39B0-3AA2BEA1862C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=889a66024faa007db7352ca64cd389d5%7Cdc93e631f9b344f1af58043ccb254f37%7Cca5a3ce4-dcaa-44c4-9de2-83281eb155e3&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.19-13.03.35:181][808]LogStaticMesh: Display: Building static mesh SM_SliderMonitor...
+[2024.03.19-13.03.35:186][808]LogTexture: Display: Building textures: /Game/TestV2/Textures/T_TimeMonitor.T_TimeMonitor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.19-13.03.35:188][808]LogTexture: Display: Building textures: /Game/TestV2/Textures/T_UvSliderButton.T_UvSliderButton (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.19-13.03.35:334][808]LogStaticMesh: Built static mesh [0.15s] /Game/TestV2/Props/SM_SliderMonitor.SM_SliderMonitor
+[2024.03.19-13.03.35:426][808]LogStaticMesh: Display: Building static mesh SM_CubeSpawner...
+[2024.03.19-13.03.35:427][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.03.35:442][808]LogStaticMesh: Built static mesh [0.02s] /Game/TestV2/Props/SM_CubeSpawner.SM_CubeSpawner
+[2024.03.19-13.03.35:486][808]LogTexture: Display: Building textures: /Game/TestV2/Textures/T_CubeSpawner.T_CubeSpawner (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.03.19-13.03.35:629][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.03.35:771][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.03.35:772][811]LogShaderCompilers: Display: ================================================
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: Total job queries 37, among them cache hits 8 (21.62%)
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 20 distinct outputs (68.97%)
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: RAM used: 555.38 KiB of 819.20 MiB budget. Usage: 0.07%
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.19-13.03.35:773][811]LogShaderCompilers: Display: ================================================
+[2024.03.19-13.03.35:796][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.04.05:965][ 93]BlueprintLog: New page: Compile BP_PhysicObjectBase
+[2024.03.19-13.04.06:043][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.19-13.04.10:572][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-13.04.10:710][556]LogSavePackage: Moving output files for package: /Game/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase
+[2024.03.19-13.04.10:711][556]LogSavePackage: Moving 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Saved/BP_PhysicObjectBase5492FB694B089DCB8768FC998B363AB3.tmp' to 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Content/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase.uasset'
+[2024.03.19-13.04.10:717][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 3.18 sec)
+[2024.03.19-13.04.10:718][556]AssetCheck: New page: Asset Save: BP_PhysicObjectBase
+[2024.03.19-13.04.10:718][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase.BP_PhysicObjectBase
+[2024.03.19-13.04.15:491][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-13.04.15:634][100]LogSavePackage: Moving output files for package: /Game/TestV2/Blueprints/Civilian/BP_Civilian
+[2024.03.19-13.04.15:635][100]LogSavePackage: Moving 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Saved/BP_Civilian5ADE5AEC4634B5CA06151A916C8646BD.tmp' to 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Content/TestV2/Blueprints/Civilian/BP_Civilian.uasset'
+[2024.03.19-13.04.15:641][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.33 sec)
+[2024.03.19-13.04.15:642][100]AssetCheck: New page: Asset Save: BP_Civilian
+[2024.03.19-13.04.15:642][100]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestV2/Blueprints/Civilian/BP_Civilian.BP_Civilian
+[2024.03.19-13.04.16:500][200]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-13.04.16:500][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-13.04.29:373][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-13.04.29:525][657]LogSavePackage: Moving output files for package: /Game/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase
+[2024.03.19-13.04.29:525][657]LogSavePackage: Moving 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Saved/BP_PhysicObjectBase9E7FEE594C9A5FC09ED183A3D8E849AB.tmp' to 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Content/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase.uasset'
+[2024.03.19-13.04.29:534][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 3.49 sec)
+[2024.03.19-13.04.29:536][657]AssetCheck: New page: Asset Save: BP_PhysicObjectBase
+[2024.03.19-13.04.29:536][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestV2/Blueprints/QuickFix/BP_PhysicObjectBase.BP_PhysicObjectBase
+[2024.03.19-13.04.30:827][802]BlueprintLog: New page: Compile BP_PhysicObjectBase
+[2024.03.19-13.04.30:934][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.19-13.04.35:476][223]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.19-13.04.35:487][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.19-13.04.35:487][223]PIE: New page: PIE session: LevelOne (20 Mar 2024, 11:04:35 am)
+[2024.03.19-13.04.35:487][223]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-13.04.35:496][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008510s)
+[2024.03.19-13.04.35:496][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/LevelOne.LevelOne to /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne (0.008547s)
+[2024.03.19-13.04.35:512][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.19-13.04.35:514][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.04.35:515][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-13.04.35:515][223]LogAIModule: Creating AISystem for world LevelOne
+[2024.03.19-13.04.35:515][223]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2024.03.19-13.04.35:515][223]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.19-13.04.35:515][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.19-13.04.35:515][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.19-13.04.35:516][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.19-13.04.35:516][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.19-13.04.35:516][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.19-13.04.35:518][223]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.19-13.04.35:536][223]LogAudioMixer: Display: Using Audio Hardware Device ED322Q (NVIDIA High Definition Audio)
+[2024.03.19-13.04.35:536][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.19-13.04.35:536][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.19-13.04.35:536][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.19-13.04.35:537][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.19-13.04.35:537][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.03.19-13.04.35:539][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.19-13.04.35:539][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.19-13.04.35:539][223]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.19-13.04.35:539][223]LogAudio: Display: Audio Device (ID: 19) registered with world 'LevelOne'.
+[2024.03.19-13.04.35:539][223]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.19-13.04.35:541][223]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.19-13.04.35:545][223]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2024.03.20-00.04.35
+[2024.03.19-13.04.35:547][223]LogWorld: Bringing up level for play took: 0.005063
+[2024.03.19-13.04.35:549][223]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.03.19-13.04.35:550][223]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-13.04.35:550][223]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-13.04.35:550][223]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-13.04.35:553][223]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-13.04.35:554][223]PIE: Server logged in
+[2024.03.19-13.04.35:554][223]PIE: Play in editor total start time 0.072 seconds.
+[2024.03.19-13.06.12:247][188]LogCharacterMovement: BP_Enemy_Critter_C_11 is stuck and failed to move! Velocity: X=285.82 Y=91.15 Z=0.00 Location: X=-1807.95 Y=414.85 Z=62.85 Normal: X=-0.45 Y=0.50 Z=-0.74 PenetrationDepth:5.353 Actor:BP_Civilian_C_4 Component:Trigger BoneName:None (0 other events since notify)
+[2024.03.19-13.06.14:681][363]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.03.19-13.06.14:681][363]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.03.19-13.06.14:681][363]LogGameMode: ProcessServerTravel: ?Restart
+[2024.03.19-13.06.14:695][364]LogEngine: Server switch level: /Game/TestV2/Maps/LevelOne?Restart
+[2024.03.19-13.06.14:696][364]LogNet: Browse: /Game/TestV2/Maps/LevelOne?Restart
+[2024.03.19-13.06.14:696][364]LogLoad: LoadMap: /Game/TestV2/Maps/LevelOne
+[2024.03.19-13.06.14:696][364]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-13.06.14:697][364]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-13.06.14:697][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-13.06.14:750][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.19-13.06.14:754][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.19-13.06.14:757][364]LogPlayLevel: Creating play world package: /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-13.06.14:766][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008412s)
+[2024.03.19-13.06.14:766][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestV2/Maps/LevelOne.LevelOne to /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne (0.008463s)
+[2024.03.19-13.06.14:766][364]LogAudio: Display: Audio Device (ID: 19) registered with world 'LevelOne'.
+[2024.03.19-13.06.14:766][364]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.19-13.06.14:766][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.19-13.06.14:767][364]LogAIModule: Creating AISystem for world LevelOne
+[2024.03.19-13.06.14:767][364]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.03.19-13.06.14:767][364]LogLoad: Game class is 'BP_FPHorror_GameMode_C'
+[2024.03.19-13.06.14:770][364]LogWorld: Bringing World /Game/TestV2/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2024.03.20-00.06.14
+[2024.03.19-13.06.14:772][364]LogWorld: Bringing up level for play took: 0.004271
+[2024.03.19-13.06.14:772][364]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-13.06.14:772][364]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.03.19-13.06.14:772][364]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-13.06.14:775][364]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.03.19-13.06.14:775][364]LogLoad: Took 0.079592 seconds to LoadMap(/Game/TestV2/Maps/UEDPIE_0_LevelOne)
+[2024.03.19-13.07.26:642][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-13.07.26:642][599]LogWorld: BeginTearingDown for /Game/TestV2/Maps/UEDPIE_0_LevelOne
+[2024.03.19-13.07.26:643][599]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.03.19-13.07.26:644][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-13.07.26:649][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.19-13.07.26:653][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.19-13.07.26:670][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.19-13.07.26:671][599]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.19-13.07.26:671][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.19-13.07.26:672][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.19-13.07.26:681][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.19-13.07.26:759][600]LogPlayLevel: Display: Destroying online subsystem :Context_34
