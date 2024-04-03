@@ -3377,3 +3377,12 @@ Make sure 'BTTask_Wander_Swarm_C' has been compiled for  Get BoidsDetectRadius
 [2024.04.03-02.19.12:419][767]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TestV2/Maps/Modular_TestV2_Auto4 is in the /Temp path, will not scan.
 [2024.04.03-02.19.12:420][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestV2/Maps/Modular_TestV2' took 0.084
 [2024.04.03-02.19.12:420][767]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2024.04.03-02.19.31:964][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.03-02.20.28:477][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-02.20.28:535][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-02.20.28:767][346]LogSavePackage: Moving output files for package: /Game/TestV2/Blueprints/Character/BP_FPHorrorCharacter
+[2024.04.03-02.20.28:768][346]LogSavePackage: Moving 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Saved/BP_FPHorrorCharacter8C6B161D467C1A1B4E7623BB48AF6804.tmp' to 'C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset'
+[2024.04.03-02.20.28:775][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 1.34 sec)
+[2024.04.03-02.20.28:779][346]AssetCheck: New page: Asset Save: BP_FPHorrorCharacter
+[2024.04.03-02.20.28:779][346]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestV2/Blueprints/Character/BP_FPHorrorCharacter.BP_FPHorrorCharacter
+[2024.04.03-02.20.33:108][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
