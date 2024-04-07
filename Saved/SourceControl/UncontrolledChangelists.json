@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Project/SITD/shotinthedark/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
+				"E:/Project/shotinthedark/Content/TestV2/Materials/UI/T_wi-fi_128x128.uasset",
+				"E:/Project/shotinthedark/Content/TestV2/Materials/T_wi-fi_128x128.uasset",
+				"E:/Project/shotinthedark/Content/TestV2/Widgets/WeaponSwitch.uasset",
 				"E:/Out/desktop-tutorial-main/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
 				"E:/Out/desktop-tutorial-main/Content/TestV2/Blueprints/Interactables/Pickups/BP_Pickup_Flashlight.uasset",
 				"E:/Out/desktop-tutorial-main/Content/TestV2/Widgets/WeaponSwitch.uasset",
