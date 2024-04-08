@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.3",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "InteractionSystemPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/e842c2ad479c42b29a6f57353fca3498"
+		}
+	]
 }
