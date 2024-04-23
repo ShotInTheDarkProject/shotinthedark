@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/BugFix/Content/TestV2/Widgets/MainMenu/GameSetting.uasset",
+				"D:/Unreal Projects/BugFix/Content/TestV2/Widgets/W_DisplayFPS.uasset",
+				"D:/Unreal Projects/BugFix/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
 				"E:/Project/SITD/shotinthedark/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
 				"E:/Project/shotinthedark/Content/TestV2/Materials/UI/T_wi-fi_128x128.uasset",
 				"E:/Project/shotinthedark/Content/TestV2/Widgets/WeaponSwitch.uasset",
