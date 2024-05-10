@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/bencummins/Desktop/GitHub/shotinthedark/Content/TestV2/Maps/Modular_Test_Lighting.umap",
+				"/Users/bencummins/Desktop/GitHub/shotinthedark/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
+				"/Users/bencummins/Desktop/GitHub/shotinthedark/Content/FMOD/Buses/Reverb.uasset",
+				"/Users/bencummins/Desktop/GitHub/shotinthedark/Content/FMOD/Events/New_Event.uasset",
+				"/Users/bencummins/Desktop/GitHub/shotinthedark/Content/FMOD/Banks/Master.uasset",
+				"/Users/bencummins/Desktop/GitHub/shotinthedark/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
 				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/Assets_V2/AssetpackV1_Prop_L_01.uasset",
 				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/Assets_V2/AssetpackV1_Prop_L_02.uasset",
 				"D:/Work/Unreal Projects/Nick/shotinthedark/Content/TestV2/Props/Assets_V2/AssetpackV1_Prop_M_01.uasset",
