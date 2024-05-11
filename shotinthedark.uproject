@@ -12,6 +12,10 @@
 		{
 			"Name": "FMODStudio",
 			"Enabled": true
+		},
+		{
+			"Name": "FMOD",
+			"Enabled": false
 		}
 	]
 }
