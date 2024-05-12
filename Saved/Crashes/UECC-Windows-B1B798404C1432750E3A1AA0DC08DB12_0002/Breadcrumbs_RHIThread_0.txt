@@ -1,8 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/2
-	00 Scene
-	01 Lights
-	02 DirectLighting
-	03 UnbatchedLights
-	04 UEDPIE_0_Modular_Test_Lighting.RectLight35
-	05 View3
