@@ -1,0 +1,10 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 Scene
+	02 Scene
+	03 Lights
+	04 DirectLighting
+	05 UnbatchedLights
+	06 UEDPIE_0_Modular_Test_Lighting.RectLight38
+	07 View1
