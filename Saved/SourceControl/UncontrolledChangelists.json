@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/101619928/OneDrive - Swinburne University/Desktop/GitHub/shotinthedark/Content/TestV2/Maps/MainLevel_Update.umap",
+				"C:/Users/101619928/OneDrive - Swinburne University/Desktop/GitHub/shotinthedark/Content/TestV2/Blueprints/SoundTrap/SoundTrap_BP.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark 5.4/Content/TestV2/Widgets/W_Fade.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark 5.4/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark 5.4/Content/TestV2/Maps/Modular_Test_Lighting.umap",
