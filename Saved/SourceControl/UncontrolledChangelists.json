@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Personal Projects/shotinthedark/Content/TestV2/Maps/MainLevel_Update.umap",
+				"D:/Personal Projects/shotinthedark/Content/TestV2/Blueprints/Menus/W_MenuVictory1.uasset",
+				"D:/Personal Projects/shotinthedark/Content/TestV2/Blueprints/Menus/W_StartMenu.uasset",
+				"D:/Personal Projects/shotinthedark/Content/TestV2/Blueprints/Menus/W_MenuDefeat1.uasset",
+				"D:/Personal Projects/shotinthedark/Content/TestV2/Blueprints/Menus/W_MenuPaused.uasset",
+				"D:/Personal Projects/shotinthedark/Content/TestV2/Blueprints/Civilian/BP_ObjectiveTrigger.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark 5.4/Content/TestV2/Widgets/W_Fade.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark 5.4/Content/TestV2/Blueprints/Character/BP_FPHorrorCharacter.uasset",
 				"C:/Users/Sam/Documents/Unreal Projects/ShotInTheDark_NICK/shotinthedark 5.4/Content/TestV2/Maps/Modular_Test_Lighting.umap",
